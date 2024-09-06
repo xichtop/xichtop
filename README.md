@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<iframe src="https://giphy.com/embed/bAplZhiLAsNnG" width="480" height="288" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xichtop)](https://git.io/streak-stats)
+
 <!--
 **xichtop/xichtop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
