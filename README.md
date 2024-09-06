@@ -1,20 +1,13 @@
 ## Hi there 👋
+I'm Xich Top. I'm a front-end developer. I build pixel-perfect, accessible products for the web and beyond 🚀.
 
-<iframe src="https://giphy.com/embed/bAplZhiLAsNnG" width="480" height="288" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+## Check out my social medias 🪐
+* 👩‍💻 [My Portfolio](https://xichtop.com/)
+* 🔗 [Linkedin](https://www.linkedin.com/in/xichtop/)
+*  🐦 [Twitter](https://x.com/xichtop)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xichtop)](https://git.io/streak-stats)
+## Just to record my streak 🔥
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xichtop&theme=highcontrast)](https://git.io/streak-stats)
 
-<!--
-**xichtop/xichtop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Just a funny gif 😜
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3133474967724764736c44396f512f67697068792e676966](https://github.com/user-attachments/assets/12a68c2d-a4c5-4be9-a830-53c4874e5225)
