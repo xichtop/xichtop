@@ -2,7 +2,7 @@
 I'm Xich Top. I'm a front-end developer. I build pixel-perfect, accessible products for the web and beyond 🚀.
 
 ## Check out my social medias 🪐
-* 👩‍💻 [My Portfolio](https://xichtop.com/)
+* 👨‍💻 [My Portfolio](https://xichtop.com/)
 * 🔗 [Linkedin](https://www.linkedin.com/in/xichtop/)
 *  🐦 [Twitter](https://x.com/xichtop)
 
