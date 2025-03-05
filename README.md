@@ -6,7 +6,7 @@ I'm Xich Top. I'm a front-end developer. I build pixel-perfect, accessible produ
 * 🔗 [Linkedin](https://www.linkedin.com/in/xichtop/)
 *  🐦 [Twitter](https://x.com/xichtop)
 
-## Just to record my weekly streak 🔥
+## Just to record my streak 🔥
 [![GitHub Streak](https://streak-stats.demolab.com?user=xichtop)](https://git.io/streak-stats)
 
 ## Just a funny gif 😜
