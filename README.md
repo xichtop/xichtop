@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Xich Top. I'm a front-end developer. I build pixel-perfect, accessible products for the web and beyond 🚀.
+I'm Xich Top. I'm a web developer. I build pixel-perfect, accessible products for the web and beyond 🚀.
 
 ## Check out my social medias 🪐
 * 👨‍💻 [My Portfolio](https://xichtop.com/)
